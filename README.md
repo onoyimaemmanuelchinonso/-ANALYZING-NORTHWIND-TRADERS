@@ -13,9 +13,12 @@
 - [Recommendations](recommendations)
 - [Limitations](limitations)
 - [References](references)
+  
 ### Project Overview
 
 This project analyzes the Northwind Traders database, a widely used sample dataset that models a global food and beverage trading company. Through the application of 12 structured SQL queries, I investigated sales performance, customer behavior, shipping operations, and regional trends to identify actionable business insights. The database consists of seven interconnected tables, such as customers, orders, order details, and products, and records a total revenue of $1.26 million from 51,300 orders placed by 830 customers. Each query was formulated to address a specific business question, thereby transforming raw data into insights that support strategic decision-making.
+
+<img width="786" height="290" alt="dashboard 2" src="https://github.com/user-attachments/assets/3d166050-c5a7-43d0-b3ae-5504635bad9d" />
 
 ### Objectives
 
